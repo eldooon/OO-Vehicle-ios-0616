@@ -7,13 +7,16 @@
 //
 
 #import "FISAppDelegate.h"
+#import "FISVehicle.h"
+#import "FISCar.h"
+#import "FISRaceCar.h"
+#import "FISPlane.h"
+
 
 @implementation FISAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-
-    // Override point for customization after application launch.
 
     return YES;
 }
